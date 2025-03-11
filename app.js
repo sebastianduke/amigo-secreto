@@ -7,4 +7,4 @@ function agregarAmigo() {
     if (nombre === ''){
         alert("Por favor, ingresaun nombre valido.");
     }
-}
+} kk 
